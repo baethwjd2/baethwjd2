@@ -5,16 +5,20 @@
 -  [티스토리 블로그](https://bsj54.tistory.com/)에 제가 공부한 것을 정리하고 있습니다.
 <br>
 
+### Skills
+<br>
+
 ### Education
 -  한양대 ERICA 재학 (2024.02 졸업 예정)
 -  화이트햇 스쿨 1기 교육생 (2024.03 수료 예정)
 <br>
 
-### Skills
+### Certificate
+-  TOEIC 915점
+-  TOPCIT 3등급
 <br>
 
-
-### Solved.ac
+### solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baethwjd2)](https://solved.ac/baethwjd2/) 
 
 <!--
