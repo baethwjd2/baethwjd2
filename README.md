@@ -41,7 +41,7 @@
 -  TOEIC 915점
 -  TOPCIT 3등급
 
-### solved.ac
+### [solved.ac](https://solved.ac/profile/baethwjd2)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baethwjd2)](https://solved.ac/baethwjd2/) 
 
 <!--
