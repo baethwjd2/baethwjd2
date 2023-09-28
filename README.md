@@ -40,7 +40,7 @@
 ## Certificate
 -  TOEIC 915점
 -  TOPCIT 3등급
-<br>
+  
 ### solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=baethwjd2)](https://solved.ac/baethwjd2/) 
 
