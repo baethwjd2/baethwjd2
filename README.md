@@ -34,7 +34,7 @@
 
 ## Education
 -  한양대 ERICA 재학 (2024.02 졸업 예정)
--  화이트햇 스쿨 1기 교육생 
+-  화이트햇 스쿨 1기 교육생 (2024.03 수료 예정)
 <br>
 
 ## Certificate
@@ -46,11 +46,11 @@
 <br>
 
 ## Project
--  [PCAP 라이브러리로 TCP 패킷 캡처]()
--  [CVE-2012-2022 취약점 분석]()
+-  [PCAP 라이브러리로 TCP 패킷 캡처](https://github.com/baethwjd2/PCAP-Programming)
+-  [CVE-2012-2022 취약점 분석](https://github.com/baethwjd2/whitehat-school-vulhub)
 -  [멀티플렉스 웹사이트 구현]()
 -  [소켓 프로그래밍]()
--  [암호 알고리즘 구현]()
+-  [암호화 알고리즘 구현]()
 -  [시스템보안 공격 코드]()
 -  [Ansible을 통한 프로비저닝]()
 <br>
