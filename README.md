@@ -50,7 +50,7 @@
 
 
 ## Contact
--  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=baethwjd2@hanyang.ac.kr)](baethwjd2@hanyang.ac.kr)
+-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:baethwjd2@hanyang.ac.kr)](baethwjd2@hanyang.ac.kr)
 
 <!--
 **baethwjd2/baethwjd2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
